@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Basic Programming",
+        "timeRequired": "1 Month",
+        "img": "https://i.ibb.co/4TzX2bS/Basics-of-Computer-Programming.png",
+        "details": "BASIC is a family of general-purpose, high-level programming languages designed for ease of use. The original version was created by John G. Kemeny and Thomas E. Kurtz at Dartmouth College in 1964. They wanted to enable students in non-scientific fields to use computers."
+    },
+    {
+        "id": "2",
+        "name": "Full Stack",
+        "timeRequired": "6 Months",
+        "img": "https://i.ibb.co/54cx7tW/complete-web.jpg",
+        "details": "Full stack web development refers to the process of developing both client- and server-side software. That means you can expect anyone with full stack included in their job title to have expertise in several front- and backend languages and frameworks. On the frontend, mastery in HTML and CSS is a common requirement for the field. Developers also tend to use JavaScript, jQuery, or Angular when developing a browser platform. Concerning the backend, full stack development consists of programming servers and databases. A server might call for code in PHP, ASP, Python, or Node, while a database can accept languages like SQL, SQLite, or MongoDB."
+    },
+    {
+        "id": "3",
+        "name": "Front End Development",
+        "timeRequired": "3 Months",
+        "img": "https://i.ibb.co/BsrpmFN/front-end.png",
+        "details": "Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly. The challenge associated with front end development is that the tools and techniques used to create the front end of a website change constantly and so the developer needs to constantly be aware of how the field is developing."
+    },
+    {
+        "id": "4",
+        "name": "Back End Development",
+        "timeRequired": "3 Months",
+        "img": "https://i.ibb.co/6vPwdVY/Backend.jpg",
+        "details": "Back-end Development refers to the server-side development. It focuses on databases, scripting, website architecture. It contains behind-the-scene activities that occur when performing any action on a website. It can be an account login or making a purchase from an online store. Code written by back-end developers helps browsers to communicate with database information."
+    },
+    {
+        "id": "5",
+        "name": "Flutter App Development",
+        "timeRequired": "4 Months",
+        "img": "https://i.ibb.co/6Dk1Ggv/Flutter-app-development.png",
+        "details": "Flutter is an open-source software development kit which enables smooth and easy cross-platform mobile app development. You can build high quality natively compiled apps for iOS and Android quickly, without having to write the code for the two apps separately. All you need is one codebase for both platforms."
+    },
+    {
+        "id": "6",
+        "name": "Java App Development",
+        "timeRequired": "5 Months",
+        "img": "https://i.ibb.co/pw1bt0s/Java-App-Development-2.jpg",
+        "details": "Java is one of the powerful general-purpose programming languages, created in 1995 by Sun Microsystems (now owned by Oracle). Java is Object-Oriented. However, it is not considered as pure object-oriented as it provides support for primitive data types (like int, char, etc). Java syntax is similar to C/C++. But Java does not provide low-level programming functionalities like pointers. Also, Java code is always written in the form of classes and objects. Android heavily relies on the Java programming language all the SDKs required to build for android applications use the standard libraries of Java. If one is coming from a traditional programming background like C, C++, Java is easy to learn. So in this discussion, there is a complete guide to learn Java specifically considering Android App Development."
+    }
+]
