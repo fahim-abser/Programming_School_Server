@@ -10,9 +10,9 @@ app.get('/', (req, res) => {
 app.get('/courses-categories',(req,res)=>{
     res.send(courses)
 })
-app.get('/course/:id',(req, res)=>{
+app.get('/courses-categories/:id',(req, res)=>{
   const id = req.params.id;
-  const category_course = courses.filter(c=>c.course===id);
+  const category_course = courses-categories.filter(c=>c.course===id);
   res.send(category_course);
 })
 
