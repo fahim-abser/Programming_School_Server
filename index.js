@@ -5,7 +5,7 @@ const cors = require('cors');
 
 const courses = require('./Data/courses.json')
 app.use(cors());
-app.get('/', (req, res) => {
+app.get('/', (req, res) => { //previous
   res.send('API Running')
 })
 app.get('/courses', (req, res) => {
